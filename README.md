@@ -1,2 +1,4 @@
 # Horiseon
-SEO-Search Engine Optimization
+Using SEO-Search Engine Optimization to make a better site.
+
+
