@@ -8,6 +8,9 @@ This project makes use of HTML Semantics (header, article, section, footer)
 1) All links are functioning correctly
 2) Cleaner CSS Code
 3) Added alt to all image tag
+4) Website meets accessibility standards
+5) I included semantic HTML elements
+6) Added a concise descriptive title
 
 
 ## How to Install and Run the Project
